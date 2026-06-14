@@ -1,5 +1,5 @@
 title       = "sinanews"
-baseURL     = "https://sinanews-cli-cli.tamnd.com/"
+baseURL     = "https://sinanews-cli.tamnd.com/"
 description = "Browse Sina News articles (新浪新闻)"
 contentDir  = "content"
 outputDir   = "public"
@@ -7,4 +7,4 @@ theme       = "tago-doks"
 syntaxHighlight = "true"
 
 [params]
-github = "https://github.com/tamnd/sinanews-cli-cli"
+github = "https://github.com/tamnd/sinanews-cli"
