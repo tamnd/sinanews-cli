@@ -78,6 +78,9 @@ func Root() *cobra.Command {
 	root.AddCommand(
 		app.newsCmd(),
 		app.channelsCmd(),
+		app.hotCmd(),
+		app.articleCmd(),
+		app.searchCmd(),
 		newVersionCmd(),
 	)
 	return root
